@@ -3,6 +3,7 @@ Python password generator. Generates an adjective, a noun, four numbers, and two
 
 ## Requirements
 `wonderwords` for word generation
+
 `pyperclip` for copying the password to clipboard
 
 ## Execution
